@@ -77,6 +77,10 @@ a:hover {
   font-size: 150px;
 }
 
+.borr {
+  border-radius: 15px;
+}
+
 .btn-main {
   background: #28abe3;
   border: 1px solid #28abe3;
